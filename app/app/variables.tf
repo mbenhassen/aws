@@ -1,0 +1,12 @@
+variable "aws_access_key" {}
+variable "aws_secret_key" {}
+variable "security_group_name" {}
+variable "security_group_tags" {}
+variable "instance_type" {}
+variable "key_name" {}
+variable "tags" {}
+variable "user" {}
+variable "ebs_zone" {}
+variable "ebs_size" {}
+variable "ebs_tag" {}
+variable "eip_tags" {}
